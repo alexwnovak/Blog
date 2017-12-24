@@ -1,4 +1,4 @@
-ø---
+---
 title: "What is Automated Testing"
 date: 2017-12-01T21:40:47-05:00
 ---
