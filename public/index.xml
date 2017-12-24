@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brainspace</title>
+    <link>https://alexwnovak.github.io/</link>
+    <description>Recent content on Brainspace</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Dec 2017 21:40:47 -0500</lastBuildDate>
+    
+	<atom:link href="https://alexwnovak.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is Automated Testing</title>
+      <link>https://alexwnovak.github.io/introduction-to-automated-testing/what-is-automated-testing/</link>
+      <pubDate>Sun, 10 Dec 2017 21:40:47 -0500</pubDate>
+      
+      <guid>https://alexwnovak.github.io/introduction-to-automated-testing/what-is-automated-testing/</guid>
+      <description>This is an introduction to Automated Testing&amp;ndash;an introduction. We’re starting from square one here, so if you&amp;rsquo;ve never heard of it, or if you&amp;rsquo;ve never tried it, or you&amp;rsquo;re interested in learning about it, then you&amp;rsquo;re in the right place. Over this series, we&amp;rsquo;ll start from the very beginning on what is automated testing, why it&amp;rsquo;s important, why we do it, and dip our toe in the water with examples in C#.</description>
+    </item>
+    
+    <item>
+      <title>A</title>
+      <link>https://alexwnovak.github.io/a/</link>
+      <pubDate>Sun, 10 Dec 2017 15:48:00 -0500</pubDate>
+      
+      <guid>https://alexwnovak.github.io/a/</guid>
+      <description> Intro Introduction.
+public class X { public void Foo() { } }  </description>
+    </item>
+    
+    <item>
+      <title>What is Automated Testing Really?</title>
+      <link>https://alexwnovak.github.io/introduction-to-automated-testing/what-is-automated-testing-really/</link>
+      <pubDate>Sun, 10 Dec 2017 13:09:39 -0500</pubDate>
+      
+      <guid>https://alexwnovak.github.io/introduction-to-automated-testing/what-is-automated-testing-really/</guid>
+      <description>Last time, we saw an overview of automated testing and why it matters. We covered the high-level concepts of what it is and what it can mean for the quality and stability of our code. But we didn&amp;rsquo;t see any of it. Let&amp;rsquo;s look deeper here and get a peek of test code.
+Well, what is it really? In the previous post we saw the definition: Automated tests are when you write code that tests other code.</description>
+    </item>
+    
+  </channel>
+</rss>
