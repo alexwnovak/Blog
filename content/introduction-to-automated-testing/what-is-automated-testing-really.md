@@ -1,6 +1,6 @@
 ---
 title: "What is Automated Testing Really?"
-date: 2017-12-10T13:09:39-05:00
+date: 2017-12-02T13:09:39-05:00
 ---
 
 Last time, we saw an overview of automated testing and why it matters. We covered the high-level concepts of what it is and what it can mean for the quality and stability of our code. But we didn't _see_ any of it. Let's look deeper here and get a peek of test code.

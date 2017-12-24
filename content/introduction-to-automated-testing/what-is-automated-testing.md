@@ -1,6 +1,6 @@
----
+ø---
 title: "What is Automated Testing"
-date: 2017-12-10T21:40:47-05:00
+date: 2017-12-01T21:40:47-05:00
 ---
 
 This is an introduction to Automated Testing--an introduction. We’re starting from square one here, so if you've never heard of it, or if you've never tried it, or you're interested in learning about it, then you're in the right place. Over this series, we'll start from the very beginning on what is automated testing, why it's important, why we do it, and dip our toe in the water with examples in C#.
