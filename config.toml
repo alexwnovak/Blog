@@ -1,0 +1,4 @@
+baseURL = "https://alexwnovak.github.io/"
+languageCode = "en-us"
+title = "Brainspace"
+theme = "vienna"
