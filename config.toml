@@ -2,3 +2,12 @@ baseURL = "https://alexwnovak.github.io/"
 languageCode = "en-us"
 title = "Brainspace"
 theme = "vienna"
+
+[params]
+author = "Alex Novak"
+avatar = "/images/avatar.jpg"
+bio = "Me"
+twitter = "alexwnovak"
+github = "alexwnovak"
+subtitle = "Let's write better code"
+themecolor = "#89995d"
