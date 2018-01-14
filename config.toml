@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Brainspace"
 theme = "vienna"
 
+[blackfriday]
+HrefTargetBlank = true
+
 [params]
 author = "Alex Novak"
 avatar = "/images/avatar.jpg"
