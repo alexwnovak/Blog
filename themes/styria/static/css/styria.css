@@ -119,3 +119,9 @@ based on vim-hybrid theme by w0ng (https://github.com/w0ng/vim-hybrid)
 .text-primary {
   color: orange;
 }
+
+pre {
+  padding: 0px;
+  border: 0px;
+  border-radius: 0px;
+}
