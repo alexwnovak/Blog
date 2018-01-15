@@ -1,18 +1,24 @@
 /*
 
-vim-hybrid theme by w0ng (https://github.com/w0ng/vim-hybrid)
+styria theme by alexwnovak
+based on vim-hybrid theme by w0ng (https://github.com/w0ng/vim-hybrid)
 
 */
 
-/*background color*/
+/* Background */
 .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
-  background: #1d1f21;
+  background: rgb( 29, 31, 33 )
 }
 
-/*selection color*/
+/* Foreground */
+.hljs {
+    color: rgb( 197,200,198 );
+}
+
+/* Drag-selection */
 .hljs::selection,
 .hljs span::selection {
   background: #373b41;
@@ -23,41 +29,49 @@ vim-hybrid theme by w0ng (https://github.com/w0ng/vim-hybrid)
   background: #373b41;
 }
 
-/*foreground color*/
-.hljs {
-  color: #c5c8c6;
+/* Namespace, class, method names */
+.hljs-title {
+  color: rgb( 138,190,183 );
+  font-weight: normal;
 }
 
-/*color: fg_yellow*/
-.hljs-title,
-.hljs-name {
-  color: #f0c674;
+/* Comment */
+.hljs-comment {
+  color: rgb( 101,148,64 );
 }
 
-/*color: fg_comment*/
-.hljs-comment,
-.hljs-meta,
-.hljs-meta .hljs-keyword {
-  color: #707880;
+/* Numbers */
+.hljs-number {
+    color: rgb(240,198,116);
+}
+
+/* Strings */
+.hljs-string {
+  color: rgb( 204,102,102 );
+}
+
+/* Language keywords */
+.hljs-keyword {
+  color: rgb(129,162,190 );
+  font-weight: normal;
 }
 
 /*color: fg_red*/
-.hljs-number,
+
 .hljs-symbol,
 .hljs-literal,
 .hljs-deletion,
 .hljs-link {
- color: #cc6666
+ color: pink;
 }
 
 /*color: fg_green*/
-.hljs-string,
 .hljs-doctag,
 .hljs-addition,
 .hljs-regexp,
 .hljs-selector-attr,
 .hljs-selector-pseudo {
-  color: #b5bd68;
+  color: pink;
 }
 
 /*color: fg_purple*/
@@ -68,11 +82,12 @@ vim-hybrid theme by w0ng (https://github.com/w0ng/vim-hybrid)
 }
 
 /*color: fg_blue*/
-.hljs-keyword,
+
 .hljs-selector-tag,
 .hljs-bullet,
 .hljs-tag {
- color: #81a2be;
+    color: rgb(129,162,190 );
+    font-weight: normal;
 }
 
 /*color: fg_aqua*/
