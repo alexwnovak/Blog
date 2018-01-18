@@ -176,6 +176,7 @@ a.btn-back {
 .author-name {
     margin: 0 0 5px 0;
     font-size: 30px;
+    color: #2D3A4D;
 }
 
 .author-bio {
@@ -281,9 +282,21 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-family: "Source Sans Pro", "Kozuka Gothic Pr6N", Meiryo, sans-serif !important;
 }
 
+h1 {
+    color: #89995D;
+}
+
+h3 {
+    color: #646E87;
+}
+
 article section img {
     max-width: 100%;
     height: auto;
     margin: 13px auto;
 }
 
+code {
+    color: #89995d;
+    background-color: #D7E1B940;
+}
