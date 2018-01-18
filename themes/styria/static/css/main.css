@@ -253,7 +253,7 @@ a.btn-back {
 
 .older-posts:hover,.newer-posts:hover
 {
-	color: #889093;
+	color: pink;
 	border-color: #98a0a4;
 }
 
@@ -271,6 +271,14 @@ pre code {
 
 .pager li>a {
     transition: background-color 0.1s linear;
+}
+
+.pager li>a, .pager li>span {
+    display: inline-block;
+    padding: 5px 14px;
+    background-color: #89995d10;
+    border: 1px solid #89995d;
+    border-radius: 3px;
 }
 
 blockquote {
@@ -298,4 +306,9 @@ article section img {
 code {
     color: #89995d;
     background-color: #D7E1B940;
+}
+
+a {
+    color: #89995d;
+    text-decoration: none;
 }
