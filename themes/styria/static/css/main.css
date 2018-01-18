@@ -67,9 +67,9 @@ a.btn-header {
     position: absolute;
     top: 20px;
     padding: 7px 16px;
-    border: 1px solid rgba(255, 255, 255, 1.0);
+    border: 1px solid rgba(255, 255, 255, 0.6);
     border-radius: 3px;
-    background-color: rgba(0, 0, 0, 0.1);
+    background-color: rgba(0, 0, 0, 0.2);
     color: rgba(255, 255, 255, 1.0);
     text-decoration: none;
     font-weight: 300;
@@ -78,8 +78,7 @@ a.btn-header {
 }
 
 a.btn-header:hover {
-    background-color: rgba(255, 255, 255, 1.0);
-    color: rgba(0, 0, 0, 1.0);
+    background-color: rgba(255, 255, 255, 0.1);
 }
 
 a.btn-subscribe {
