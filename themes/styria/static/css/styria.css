@@ -117,7 +117,19 @@ based on vim-hybrid theme by w0ng (https://github.com/w0ng/vim-hybrid)
 }
 
 .text-primary {
-  color: orange;
+  color: white; /* #526322;*/
+}
+
+.post-date {
+  color: #888;
+  margin-top: -8px;
+}
+
+hr.header-separator {
+  border: 1px solid #52632220;
+  width: 100%;
+  margin-top: 35px;
+  margin-bottom: 12px;
 }
 
 pre {
@@ -125,4 +137,14 @@ pre {
   border: 0px;
   border-radius: 0px;
   line-height: 1.45;
+}
+
+header.post-header {
+  background-color: #2D3A4D;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  padding: 20px 40px;
+  height: 170px;
+  
+  
 }
